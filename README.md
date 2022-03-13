@@ -19,8 +19,8 @@
 
 ### Links
 
-- Code URL: [Add solution URL here](https://github.com/ricardoleonh/Split-Landing-Page)
-- Live Site URL: [Add live site URL here](https://ricardoleonh.github.io/Split-Landing-Page/)
+- Code URL: [Repository](https://github.com/ricardoleonh/Split-Landing-Page)
+- Live Site URL: [Live Link](https://ricardoleonh.github.io/Split-Landing-Page/)
 
 ## My process
 
